@@ -31,6 +31,15 @@ This project performs exploratory data analysis (EDA) on hotel booking data from
 - Comparative analysis across hotel types, months, pricing, and booking channels
 - Insight generation with a focus on business impact
 
+## Key Visualizations
+
+### Average Daily Rate vs Cancellation
+![ADR vs Cancellation](screenshots/ADR&Cancellation.png)
+
+### Monthly Cancellation Trend
+![Monthly Trend](screenshots/MonthlyCancellation.png)
+
+
 ## Key Insights
 - Approximately **37% of hotel bookings are cancelled**, resulting in significant revenue loss
 - Higher **Average Daily Rate (ADR)** shows a strong correlation with higher cancellation rates
