@@ -1,37 +1,27 @@
 # Hotel Booking Cancellation Analysis and Revenue Optimization
 
-## Project Overview
+## Overview
 
-Hotel reservation cancellations significantly impact revenue and room utilization for both City Hotels and Resort Hotels. This project analyzes historical hotel booking data to identify the key factors influencing cancellations and provides data-driven business recommendations to reduce cancellation rates and improve revenue efficiency.
-
-The analysis focuses on pricing behavior, seasonality, booking channels, customer location, and hotel type using exploratory data analysis (EDA).
+Exploratory data analysis of hotel booking data (2015–2017) to identify key drivers of reservation cancellations and propose data-driven revenue optimization strategies for city and resort hotels.
 
 ## Dataset
 
 Source: Hotel Booking Dataset (2015–2017)    
 Records: 119,000+ hotel bookings    
-
-### Key Features:
-
-Hotel type (City / Resort)
-Average Daily Rate (ADR)
-Booking status (Canceled / Not Canceled)
-Booking channels (Online TA, Offline TA, Direct, Groups)
-Customer country
-Reservation month and lead time
+Key Features: Hotel type, Average Daily Rate (ADR), Booking status, etc.
 
 ## Tools & Technologies
 
-Programming Language: Python    
-Libraries: Pandas, NumPy, Matplotlib, Seaborn    
-Environment: Jupyter Notebook   
+- Programming Language: Python    
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn    
+- Environment: Jupyter Notebook   
 
 ## Business Questions Addressed
 
-What factors influence hotel booking cancellations?
-How do pricing and seasonality affect cancellation behavior?
-Which booking channels and regions contribute most to cancellations?
-How can hotels optimize pricing and promotional strategies to reduce cancellations?
+- What factors influence hotel booking cancellations?   
+- How do pricing and seasonality affect cancellation behavior?   
+- Which booking channels and regions contribute most to cancellations?   
+- How can hotels optimize pricing and promotional strategies to reduce cancellations?   
 
 ## Key Insights
 - ~37% of hotel bookings are cancelled, causing significant revenue loss
@@ -43,12 +33,18 @@ How can hotels optimize pricing and promotional strategies to reduce cancellatio
 ## Repository Structure
 hotel-booking-cancellation-analysis/   
 │   
-├── data/    
+├── data/                    
 │ └── hotel_bookings.csv   
-├── notebook/    
+├── notebook/       
 │ └── hotel_booking_eda.ipynb    
-├── report/    
+├── report/          
 │ └── hotel_cancellation_analysis.pdf    
 └── README.md    
 
 ## Conclusion
+This project demonstrates how data-driven analysis can uncover critical business insights related to hotel booking cancellations. By adopting the proposed pricing and promotional strategies, hotels can improve occupancy rates, enhance customer retention, and increase overall revenue.
+
+## Contact
+- Tanushri Barsainya
+- Github: https://github.com/tanushri1506
+- LinkedIn: https://www.linkedin.com/in/tanushri1506/
