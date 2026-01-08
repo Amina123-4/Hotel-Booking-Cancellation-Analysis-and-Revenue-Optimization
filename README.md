@@ -38,18 +38,6 @@ This project performs exploratory data analysis (EDA) on hotel booking data from
 - **Resort hotels** exhibit a higher cancellation ratio compared to city hotels
 - **Online Travel Agencies (OTAs)** contribute the majority of cancellations
 
-## Repository Structure
-hotel-booking-cancellation-analysis/   
-│   
-├── data/                    
-│ └── hotel_bookings.csv   
-├── notebook/       
-│ └── Hotel Booking Data Analysis.ipynb  
-├── report/          
-│ └── Hotel Booking Cancellation Analysis Report.pdf    
-└── README.md    
-
-
 ## Conclusion
 This project demonstrates how exploratory data analysis can uncover meaningful business insights related to hotel booking cancellations. By applying pricing optimization, seasonal promotions, and channel-focused strategies, hotels can reduce cancellations, improve occupancy rates, and enhance overall revenue performance.
 
