@@ -8,8 +8,8 @@ The analysis focuses on pricing behavior, seasonality, booking channels, custome
 
 ## Dataset
 
-Source: Hotel Booking Dataset (2015–2017)
-Records: 119,000+ hotel bookings
+Source: Hotel Booking Dataset (2015–2017)    
+Records: 119,000+ hotel bookings    
 
 ### Key Features:
 
@@ -22,9 +22,9 @@ Reservation month and lead time
 
 ## Tools & Technologies
 
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Environment: Jupyter Notebook
+Programming Language: Python    
+Libraries: Pandas, NumPy, Matplotlib, Seaborn    
+Environment: Jupyter Notebook   
 
 ## Business Questions Addressed
 
