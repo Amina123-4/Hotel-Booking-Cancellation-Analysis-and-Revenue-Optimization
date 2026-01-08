@@ -36,9 +36,9 @@ hotel-booking-cancellation-analysis/
 ├── data/                    
 │ └── hotel_bookings.csv   
 ├── notebook/       
-│ └── hotel_booking_eda.ipynb    
+│ └── Hotel Booking Data Analysis.ipynb  
 ├── report/          
-│ └── hotel_cancellation_analysis.pdf    
+│ └── Hotel Booking Cancellation Analysis Report.pdf    
 └── README.md    
 
 ## Conclusion
