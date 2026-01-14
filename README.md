@@ -2,6 +2,8 @@
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) on hotel booking data from 2015 to 2017 to identify key factors driving reservation cancellations. The analysis focuses on pricing behavior, seasonality, booking channels, and hotel type to derive data-driven strategies for improving revenue and room utilization for both city and resort hotels.
+This project also includes predictive modeling to forecast cancellations and evaluate feature importance.
+
 
 ## Dataset
 - **Source:** Hotel Booking Dataset (2015–2017)
@@ -16,7 +18,7 @@ This project performs exploratory data analysis (EDA) on hotel booking data from
 
 ## Tools & Technologies
 - **Programming Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn     
 - **Environment:** Jupyter Notebook  
 
 ## Business Questions Addressed
@@ -24,12 +26,14 @@ This project performs exploratory data analysis (EDA) on hotel booking data from
 - How do pricing and seasonality affect cancellation behavior?
 - Which booking channels and regions contribute most to cancellations?
 - How can hotels optimize pricing and promotional strategies to reduce cancellations?
+- Can we predict cancellations using machine learning models?
 
 ## Analysis Approach
 - Data cleaning and preprocessing
 - Exploratory data analysis using grouped and time-based visualizations
 - Comparative analysis across hotel types, months, pricing, and booking channels
 - Insight generation with a focus on business impact
+- Built predictive models (Logistic Regression, Random Forest) to forecast cancellations and interpret feature importance
 
 ## Key Visualizations
 
@@ -46,6 +50,8 @@ This project performs exploratory data analysis (EDA) on hotel booking data from
 - **January** experiences the highest number of cancellations, while **August** has the highest confirmed bookings
 - **Resort hotels** exhibit a higher cancellation ratio compared to city hotels
 - **Online Travel Agencies (OTAs)** contribute the majority of cancellations
+- Predictive models indicate key features driving cancellations, enabling proactive revenue optimization
+
 
 ## Conclusion
 This project demonstrates how exploratory data analysis can uncover meaningful business insights related to hotel booking cancellations. By applying pricing optimization, seasonal promotions, and channel-focused strategies, hotels can reduce cancellations, improve occupancy rates, and enhance overall revenue performance.
